@@ -1,7 +1,7 @@
 
 ## Hi There!🧑‍💻
 
-I'm @haniftrusta, a Cybersecurity Junior based in Yogyakarta
+I'm haniftrusta, a Cybersecurity Junior based in Yogyakarta
 
 I’m passionate about cybersecurity, especially penetration testing, vulnerability research, and bug hunting. I enjoy exploring systems, discovering vulnerabilities, and understanding how they can be secured better.
 
